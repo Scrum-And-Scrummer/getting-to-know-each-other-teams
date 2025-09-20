@@ -12,3 +12,21 @@ h1 {
     justify-content: center;
     margin-top: 20px;
 }
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+    margin-top: 20px;
+}
+
+div.List {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+}
+
+ul.UL {
+    display: inline-block;
+    text-align: left;
+}
